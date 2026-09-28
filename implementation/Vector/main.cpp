@@ -32,12 +32,12 @@ void test_push_back() {
     
     // Нормальный случай
     v.push_back(5);
-    assert(v.size() == 1);
+    assert(v._size() == 1);
     assert(v[0] == 5);
     
     v.push_back(10);
     v.push_back(15);
-    assert(v.size() == 3);
+    assert(v._size() == 3);
     assert(v.back() == 15);
     
     std::cout << "test_push_back passed" << std::endl;
