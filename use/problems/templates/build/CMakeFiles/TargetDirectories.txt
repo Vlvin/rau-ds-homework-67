@@ -1,0 +1,12 @@
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/test_FixedArray.dir
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/test_Matrix.dir
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/test_Pair.dir
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/test_Range.dir
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/test_isEqual.dir
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/test_linearSearch.dir
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/test_mySwap.dir
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/test_printElement.dir
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/test_printValue.dir
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/test_sumArray.dir
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/edit_cache.dir
+/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build/CMakeFiles/rebuild_cache.dir

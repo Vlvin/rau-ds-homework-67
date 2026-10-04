@@ -22,3 +22,11 @@ Thumbs.db
 # Temp
 *.tmp
 *.log
+
+# Build files
+build/
+**/build/
+
+# lsp cache
+.cache/
+**/.cache/

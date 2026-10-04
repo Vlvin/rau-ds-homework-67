@@ -1,6 +1,7 @@
 #ifndef FORWARDLIST_H
 #define FORWARDLIST_H
 
+#include <stdexcept>
 template <typename T>
 class ForwardList {
 private:
@@ -33,11 +34,21 @@ public:
     void pop_front();
     
     /// 7. front() - первый элемент
-    T& front();
-    const T& front() const;
+    T& front() {
+      if (_head == nullptr)
+        throw std::logic_error("List is empty");
+      return _head->data;
+    }
+    const T& front() const {
+      if (_head == nullptr)
+        throw std::logic_error("List is empty");
+      return _head->data;
+    }
     
     /// 8. insert_after(Node* node, const T& value) - вставить после узла
-    void insert_after(Node* node, const T& value);
+    void insert_after(Node* node, const T& value) {
+      Node* cur
+    }
     
     /// 9. erase_after(Node* node) - удалить после узла
     void erase_after(Node* node);

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test_FixedArray.dir/FixedArray.cpp.o -c /home/vlvin/Code/rau-ds-homework-67/use/problems/templates/FixedArray.cpp",
+  "file": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/FixedArray.cpp",
+  "output": "CMakeFiles/test_FixedArray.dir/FixedArray.cpp.o"
+},
+{
+  "directory": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test_Matrix.dir/Matrix.cpp.o -c /home/vlvin/Code/rau-ds-homework-67/use/problems/templates/Matrix.cpp",
+  "file": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/Matrix.cpp",
+  "output": "CMakeFiles/test_Matrix.dir/Matrix.cpp.o"
+},
+{
+  "directory": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test_Pair.dir/Pair.cpp.o -c /home/vlvin/Code/rau-ds-homework-67/use/problems/templates/Pair.cpp",
+  "file": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/Pair.cpp",
+  "output": "CMakeFiles/test_Pair.dir/Pair.cpp.o"
+},
+{
+  "directory": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test_Range.dir/Range.cpp.o -c /home/vlvin/Code/rau-ds-homework-67/use/problems/templates/Range.cpp",
+  "file": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/Range.cpp",
+  "output": "CMakeFiles/test_Range.dir/Range.cpp.o"
+},
+{
+  "directory": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test_isEqual.dir/isEqual.cpp.o -c /home/vlvin/Code/rau-ds-homework-67/use/problems/templates/isEqual.cpp",
+  "file": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/isEqual.cpp",
+  "output": "CMakeFiles/test_isEqual.dir/isEqual.cpp.o"
+},
+{
+  "directory": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test_linearSearch.dir/linearSearch.cpp.o -c /home/vlvin/Code/rau-ds-homework-67/use/problems/templates/linearSearch.cpp",
+  "file": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/linearSearch.cpp",
+  "output": "CMakeFiles/test_linearSearch.dir/linearSearch.cpp.o"
+},
+{
+  "directory": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test_mySwap.dir/mySwap.cpp.o -c /home/vlvin/Code/rau-ds-homework-67/use/problems/templates/mySwap.cpp",
+  "file": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/mySwap.cpp",
+  "output": "CMakeFiles/test_mySwap.dir/mySwap.cpp.o"
+},
+{
+  "directory": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test_printElement.dir/printElement.cpp.o -c /home/vlvin/Code/rau-ds-homework-67/use/problems/templates/printElement.cpp",
+  "file": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/printElement.cpp",
+  "output": "CMakeFiles/test_printElement.dir/printElement.cpp.o"
+},
+{
+  "directory": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test_printValue.dir/printValue.cpp.o -c /home/vlvin/Code/rau-ds-homework-67/use/problems/templates/printValue.cpp",
+  "file": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/printValue.cpp",
+  "output": "CMakeFiles/test_printValue.dir/printValue.cpp.o"
+},
+{
+  "directory": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test_sumArray.dir/sumArray.cpp.o -c /home/vlvin/Code/rau-ds-homework-67/use/problems/templates/sumArray.cpp",
+  "file": "/home/vlvin/Code/rau-ds-homework-67/use/problems/templates/sumArray.cpp",
+  "output": "CMakeFiles/test_sumArray.dir/sumArray.cpp.o"
+}
+]

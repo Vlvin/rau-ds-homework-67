@@ -1,6 +1,0 @@
-   [submodule "ds-practice-problems"]
-       path = use/ds-practice-problems
-       url = git@github.com:Garnik645/ds-practice-problems.git
-[submodule "use/problems"]
-	path = use/problems
-	url = https://github.com/Garnik645/ds-practice-problems/

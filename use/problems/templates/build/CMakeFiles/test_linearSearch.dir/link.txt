@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/test_linearSearch.dir/link.d CMakeFiles/test_linearSearch.dir/linearSearch.cpp.o -o test_linearSearch
